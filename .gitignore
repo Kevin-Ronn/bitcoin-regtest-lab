@@ -1,0 +1,5 @@
+bitcoin1/
+bitcoin2/
+*.log
+.env
+.DS_Store
